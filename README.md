@@ -14,6 +14,10 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Next.js](https://img.shields.io/badge/-Next.Js-000?&logo=nextdotjs)
+![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=gatsby)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
+![TRPC](https://img.shields.io/badge/-TRPC-000?&logo=TRPC)
+
 
 
 ### Full Stack Projects
